@@ -52,6 +52,20 @@ The objective of the project is to create a simple and accessible website that p
 
 **Group Project**
 
+## 👩‍💻 My Contribution
+
+As a member of the group, I was primarily responsible for the **frontend development** of the project.
+
+My contributions included:
+
+* Designed and developed the website's user interface
+* Created and structured the HTML pages
+* Worked on the donation category pages for **food, clothes, and books**
+* Developed pages for login, signup, location, and donation completion
+* Integrated images and other visual elements into the web pages
+* Focused on creating a simple and user-friendly website interface
+
+
 ## 🚀 Future Improvements
 
 * Add a backend and database
