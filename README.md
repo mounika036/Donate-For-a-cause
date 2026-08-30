@@ -88,10 +88,10 @@ Screenshots of the website can be added here to showcase the user interface.
 ![Login Page](ss1.png)
 
 ### 🍱 Food Donation
-![Food Donation](ss3.png)
+![Food Donation](ss4.png)
 
 ### 📍 Location Page
-![Location Page](ss4.png)
+![Location Page](ss3.png)
 
 ### ✅ Donation Completed
 ![Donation Completed](ss5.png)
