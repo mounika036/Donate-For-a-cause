@@ -88,7 +88,7 @@ Screenshots of the website can be added here to showcase the user interface.
 ![Login Page](loginpic.jpeg)
 
 ### 📚 Books Donation
-![Books Donation](bookspic2.jpeg)
+![Books Donation](bookspic.jpeg)
 
 ### 👕 Clothes Donation
 ![Clothes Donation](clothespic.jpeg)
