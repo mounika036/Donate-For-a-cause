@@ -79,6 +79,21 @@ My contributions included:
 
 Screenshots of the website can be added here to showcase the user interface.
 
----
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](pic1.png)
+
+### 🔐 Login Page
+![Login Page](loginpic.jpeg)
+
+### 📚 Books Donation
+![Books Donation](bookspic2.jpeg)
+
+### 👕 Clothes Donation
+![Clothes Donation](clothespic.jpeg)
+
+### 🍱 Food Donation
+![Food Donation](foodpic.jpeg)
 
 ⭐ Thanks for visiting the project!
