@@ -23,7 +23,6 @@ The website includes pages for user login, signup, item selection, location deta
 * HTML
 * CSS
 * JavaScript
-* XAMPP
 
 ## 📂 Project Structure
 
