@@ -82,18 +82,18 @@ Screenshots of the website can be added here to showcase the user interface.
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](pic1.png)
+![Home Page](ss2.png)
 
 ### 🔐 Login Page
-![Login Page](loginpic.jpeg)
-
-### 📚 Books Donation
-![Books Donation](bookspic.jpeg)
-
-### 👕 Clothes Donation
-![Clothes Donation](clothespic.jpeg)
+![Login Page](ss1.png)
 
 ### 🍱 Food Donation
-![Food Donation](foodpic.jpeg)
+![Food Donation](ss3.png)
+
+### 📍 Location Page
+![Location Page](ss4.png)
+
+### ✅ Donation Completed
+![Donation Completed](ss5.png)
 
 ⭐ Thanks for visiting the project!
